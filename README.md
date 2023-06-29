@@ -1,5 +1,5 @@
 # Gradient Boosting Classifier
-[Enlace]:(https://api.wandb.ai/links/alba-m-boga/xfstxrbi)
+[Enlace]: (https://api.wandb.ai/links/alba-m-boga/xfstxrbi)
 
 Utilización del modelo Gradient Boosting Classifier y un dataset de Vino para clasificar el vino en función de sus componentes químicos, a partir de la herramienta Wandb.
 
